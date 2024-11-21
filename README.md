@@ -103,6 +103,8 @@ callbacks, and do loss-less function calls with any arguments you like (with the
 ## Who's using it
 * [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) -- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PrismarineJS/mineflayer/blob/master/docs/mineflayer.ipynb)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/extremeheat/JSPyBridge)
+
 # Documentation
 
 ## From Python
